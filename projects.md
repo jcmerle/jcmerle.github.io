@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+<hr>
+
 ### 2024:
 
 <div style="text-align: right;">
