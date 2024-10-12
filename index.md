@@ -1,0 +1,95 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
+
+<html>
+  <head>
+    <title>Pic</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 16px;
+  padding-left: 16px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="../images/photo.jpg" width="1000">
+      </div>
+      <div class="text">
+        Currently in my final year of a <b>Master's degree in Cryptology and Computer Security</b> at the University of Bordeaux, I am passionate about cybersecurity and software development. I particularly enjoy learning about web infrastructure security and penetration testing, with an additional interest in reverse engineering. I am open to explore new fields and technologies and am always looking for new challenges. 
+      </div>
+    </div>
+  </body>
+</html>
+
+<br/>
+
+# Education
+<hr>
+I am currently pursuing a <b>Master's degree in Cryptology and Computer Security</b> at the University of Bordeaux.  
+  
+I hold a <b>Bachelor's degree in Computer Science</b>, which I completed in 2023. Additionally, I spent a year studying at Inha University in South Korea, broadening my academic and cultural horizons.  
+  
+[**Coursework from my studies**](../courses/)
+
+<br/>
+
+# Projects
+<hr>
+Some of the projects that I worked on during my studies:
+- Fuzzing of the TCP/IP Stack in [libslirp](https://gitlab.freedesktop.org/slirp/libslirp) using the LLVM libFuzzer
+- Sudoku Solver and Generator in C with various heuristics and algorithms
+- Implementation of the simple one-player puzzle game [Lightup](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/lightup.html) in C making use of various tools such as SDL and Makefile  
+  
+[**More projects**](../projects/)
+
+<br/>
+
+# Certifications
+<hr>
+
+<div style="text-align: right;">
+    <a href="../files/cyberops.pdf"><img src="../images/pdf.png" alt="CyberOps" width="40" style="filter: invert(1);"/></a>
+</div>
+[CISCO CyberOps Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cyberops/cyberops-associate/index.html#tabs-35d568e0ff-item-194f491212-tab): obtained in 2023 at Inha University, South Korea  
+
+<div style="text-align: right;">
+    <a href="../files/devnet.pdf"><img src="../images/pdf.png" alt="DevNet" width="40" style="filter: invert(1);"/></a>
+</div>
+[CISCO DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/devnet/associate/index.html#tabs-35d568e0ff-item-194f491212-tab): obtained in 2023 at Inha University, South Korea
+
+<br/>
+
+# Hobbies and Interests
+<hr>
+In my free time, I enjoy working on challenges from [root-me.org](https://www.root-me.org/), a platform dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, reverse engineering, and app vulnerabilities.  
+  
+**[Root-me profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**  
+
+I also maintain a homelab server where I host various services to manage and secure my personal data:
+- **Nextcloud**: for file synchronization and sharing
+- **Vaultwarden**: for managing passwords securely
+- **Immich**: for backing up and organizing photos
+- **Plex**: for streaming multimedia content
+- And some more...  
+  
+This server has helped me learn some skills about system administration, network configuration, and data security, as well as better my understanding of tools such as **Docker** and **Nginx Proxy Manager**.
