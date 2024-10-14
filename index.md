@@ -92,4 +92,4 @@ I also maintain a homelab server where I host various services to manage and sec
 - **Plex**: for streaming multimedia content
 - And some more...  
   
-This server has helped me learn some skills about system administration, network configuration, and data security, as well as better my understanding of tools such as **Docker** and **Nginx Proxy Manager**.
+This server has helped me learn some skills about system administration, network configuration, and data security, as well as bettering my understanding of tools such as **Docker** and **Nginx Proxy Manager**.
