@@ -81,9 +81,21 @@ Some of the projects that I worked on during my studies:
 
 # Hobbies and Interests
 <hr>
-In my free time, I enjoy working on challenges from [root-me.org](https://www.root-me.org/), a platform dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, reverse engineering, and app vulnerabilities.  
-  
-**[Root-me profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**  
+In my free time, I enjoy working on challenges from **root-me.org** (**[profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**), and **TryHackMe** (**[profile](https://tryhackme.com/r/p/lovetdlc)**) among others, which are platforms dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, pentesting, reverse engineering, and app vulnerabilities.
+
+<br/>
+
+<div style="text-align: center;">
+  <img src="../images/rootme.png" alt="Root-me" width="60%"/>
+</div>
+
+<br/>
+
+<div style="text-align: center;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lovetdlc.png" alt="TryHackMe badge" width="60%"/>
+</div>
+
+<br/>
 
 I also maintain a homelab server where I host various services to manage and secure my personal data:
 - **Nextcloud**: for file synchronization and sharing
