@@ -43,6 +43,10 @@ img {
 
 <br/>
 
+<div style="text-align: center;">
+  <a href="../files/CV Merle Jean-Charles.pdf" class="button" style="font-size: 20px; padding: 10px 20px;">Download my CV</a>
+</div>
+
 # Education
 <hr>
 I am currently pursuing a <b>Master's degree in Cryptology and Computer Security</b> at the University of Bordeaux.  
@@ -81,7 +85,7 @@ Some of the projects that I worked on during my studies:
 
 # Hobbies and Interests
 <hr>
-In my free time, I enjoy working on challenges from **root-me.org** (**[profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**), and **TryHackMe** (**[profile](https://tryhackme.com/r/p/lovetdlc)**) among others, which are platforms dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, pentesting, reverse engineering, and app vulnerabilities.
+In my free time, I enjoy working on challenges from **root-me.org** (**[profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**), **TryHackMe** (**[profile](https://tryhackme.com/r/p/lovetdlc)**) and **HackTheBox** (**[profile](https://app.hackthebox.com/profile/1555292)**), which are platforms dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, pentesting, reverse engineering, and app vulnerabilities.
 
 <br/>
 
