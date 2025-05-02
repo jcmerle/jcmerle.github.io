@@ -90,7 +90,7 @@ In my free time, I enjoy working on challenges from **root-me.org** (**[profile]
 <br/>
 
 <div style="text-align: center;">
-  <img src="../images/rootme.png" alt="Root-me" width="60%"/>
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark" >
 </div>
 
 <br/>
