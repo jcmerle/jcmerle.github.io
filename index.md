@@ -89,9 +89,13 @@ In my free time, I enjoy working on challenges from **root-me.org** (**[profile]
 
 <br/>
 
+![Root-me-stats] (https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark)
+
+<!---
 <div style="text-align: center;">
   <img src="https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark" >
 </div>
+-->
 
 <br/>
 
