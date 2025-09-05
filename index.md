@@ -35,7 +35,7 @@ img {
         <img src="../images/photo.jpg" width="1000">
       </div>
       <div class="text">
-        Currently in my final year of a <b>Master's degree in Cryptology and Computer Security</b> at the University of Bordeaux, I am passionate about cybersecurity and software development. I particularly enjoy learning about web infrastructure security and penetration testing, with an additional interest in reverse engineering. I am open to explore new fields and technologies and am always looking for new challenges. 
+        Currently working at <b>COGICEO</b> as a cybersecurity consultant, my expertise spans penetration testing, web infrastructure security and configuration audits, and I enjoy tackling complex technical challenges. I remain curious and open to new fields and technologies, constantly seeking opportunities to grow and push my skills further.
       </div>
     </div>
   </body>
@@ -49,9 +49,7 @@ img {
 
 # Education
 <hr>
-I am currently pursuing a <b>Master's degree in Cryptology and Computer Security</b> at the University of Bordeaux.  
-  
-I hold a <b>Bachelor's degree in Computer Science</b>, which I completed in 2023. Additionally, I spent a year studying at Inha University in South Korea, broadening my academic and cultural horizons.  
+I hold a <b>Master’s degree in Cryptology and Computer Security</b> from the University of Bordeaux, along with a <b>Bachelor’s degree in Computer Science</b> completed in 2023. I also spent a year studying at Inha University in South Korea, an experience that broadened both my academic perspective and cultural horizons.
   
 [**Coursework from my studies**](../courses/)
 
@@ -87,20 +85,22 @@ Some of the projects that I worked on during my studies:
 <hr>
 In my free time, I enjoy working on challenges from **root-me.org** (**[profile](https://www.root-me.org/lovetdlc?lang=fr#cc278f2e5def6c08abfb11b28739cc1d)**), **TryHackMe** (**[profile](https://tryhackme.com/r/p/lovetdlc)**) and **HackTheBox** (**[profile](https://app.hackthebox.com/profile/1555292)**), which are platforms dedicated to cybersecurity and ethical hacking. It allows me to sharpen my skills in various areas such as web security, pentesting, reverse engineering, and app vulnerabilities.
 
-<br/>
+<!-- ![Root-me-stats] (https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark) -->
 
-![Root-me-stats] (https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark)
-
-<!---
 <div style="text-align: center;">
-  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark" >
+  <img src="images/htb.png" width="60%">
 </div>
--->
 
 <br/>
 
 <div style="text-align: center;">
   <img src="https://tryhackme-badges.s3.amazonaws.com/lovetdlc.png" alt="TryHackMe badge" width="60%"/>
+</div>
+
+<br/>
+
+<div style="text-align: center;">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=lovetdlc&gstats=show&style=dark" >
 </div>
 
 <br/>
